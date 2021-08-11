@@ -17,3 +17,4 @@ REACT_APP_GOOGLE_MAPS_API_KEY=123
   - https://stackoverflow.com/questions/8248077/google-maps-v3-standard-icon-shadow-names-equiv-of-g-default-icon-in-v2
   - https://stackoverflow.com/questions/17746740/google-map-icons-with-visualrefresh
 
+
